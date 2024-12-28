@@ -1,0 +1,1 @@
+export const Server_url="https://media-player-backend-i1cj.onrender.com"
